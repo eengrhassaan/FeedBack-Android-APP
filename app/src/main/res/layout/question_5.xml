@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/question5"
+        android:id="@+id/q5"
+        android:textSize="25sp"
+        android:textColor="@color/textColor"/>
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/q5"
+        android:id="@+id/q5rg"
+        >
+        <RadioButton
+            android:textColor="@color/textColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/q5op1"
+            android:id="@+id/q5op1"
+            android:textSize="20sp"
+            android:paddingRight="5dp"
+            android:layout_margin="1dp"/>
+        <RadioButton
+            android:textColor="@color/textColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/q5op2"
+            android:id="@+id/q5op2"
+            android:textSize="20sp"
+            android:paddingRight="5dp"
+            android:layout_margin="1dp"/>
+        <RadioButton
+            android:textSize="20sp"
+            android:textColor="@color/textColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/q5op3"
+            android:id="@+id/q5op3"
+            android:paddingRight="5dp"
+            android:layout_margin="1dp"/>
+        <RadioButton
+            android:textSize="20sp"
+            android:textColor="@color/textColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/q5op4"
+            android:id="@+id/q5op4"
+            android:paddingRight="5dp"
+            android:layout_margin="1dp"/>
+    </RadioGroup>
+</RelativeLayout>

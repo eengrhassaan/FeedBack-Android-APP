@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="question1">1. Where are you from?</string>
+    <string name="q1op1">Timor Leste</string>
+    <string name="q1op2">Portugal</string>
+    <string name="q1op3">Australia</string>
+
+    <string name="question2">2. How old are you?</string>
+    <string name="q2op1">12-18</string>
+    <string name="q2op2">18-28</string>
+    <string name="q2op3">28-50</string>
+    <string name="q2op4">Over 50</string>
+
+    <string name="question3">3. Which part of Dili are you from?</string>
+    <string name="q3op1">Comoro</string>
+    <string name="q3op2">Bidau</string>
+    <string name="q3op3">Colmera</string>
+    <string name="q3op4">Audian</string>
+    <string name="q3op5">Becora</string>
+    <string name="q3op6">Tasi Tolu</string>
+    <string name="q3op7">Manleuana</string>
+    <string name="q3op8">Bairo Pite</string>
+    <string name="q3op9">Taibesi</string>
+
+    <string name="question4">4. How satisfied are you with your visit?</string>
+    <string name="q4op1">Loved it!</string>
+    <string name="q4op2">I liked it!</string>
+    <string name="q4op3">Not Satisfied</string>
+    <string name="q4op4">I had an issue</string>
+
+    <string name="question5">5. How often do you visit Gloria Jeans coffee?</string>
+    <string name="q5op1">Daily</string>
+    <string name="q5op2">Weekly</string>
+    <string name="q5op3">Monthly</string>
+    <string name="q5op4">Once in a while</string>
+
+    <string name="question6">6. What needs most improvement at your Gloria Jean\'s coffee?</string>
+    <string name="q6op1">Food range</string>
+    <string name="q6op2">Coffee range</string>
+    <string name="q6op3">Customer service</string>
+    <string name="q6op4">Pricing structure</string>
+
+    <string name="question7">7. How did our Baristas treat you today?</string>
+    <string name="q7op1">Great</string>
+    <string name="q7op2">Very well</string>
+    <string name="q7op3">Could improve</string>
+    <string name="q7op4">Not satisfied</string>
+
+    <string name="question8">8. How much did you spend today?</string>
+    <string name="q8op1">$1-$5</string>
+    <string name="q8op2">$6-$10</string>
+    <string name="q8op3">$11-$20</string>
+    <string name="q8op4">$20 and over</string>
+
+    <string name="question9">9. What is your favourite GJS purchase?</string>
+    <string name="q9op1">Coffees</string>
+    <string name="q9op2">Food</string>
+    <string name="q9op3">Merchandise</string>
+    <string name="q9op4">Other</string>
+
+    <string name="question10">10. Would you like to write about today\'s experience?</string>
+
+    <string name="luckuDraw">IF YOU WISH TO ENTER THE DRAW TO WIN $50 EVERY MONTH PLEASE ENTER YOUR CONTACT DETAILS BELOW</string>
+</resources>
